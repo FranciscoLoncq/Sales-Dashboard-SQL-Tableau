@@ -9,10 +9,10 @@ Given my current role as a wholesale analyst, which involves presenting similar 
 
 ## Links:
 ### Bike Stores Dataset
-[Dataset: Bike Stores](https://github.com/FranciscoLoncq/Online-Retail-Cohort-Analysis-SQL-Tableau/blob/main/online%2Bretail%20(2).zip)
+[Dataset: Bike Stores](https://github.com/FranciscoLoncq/Sales-Dashboard-SQL-Tableau/blob/main/BikeStores.xlsx%20-%20Data.csv)
 
 ### SQL Query
-[SQL Analysis Query](https://github.com/FranciscoLoncq/Online-Retail-Cohort-Analysis-SQL-Tableau/blob/main/Online%20Retail%20Queries.sql)
+[SQL Analysis Query](https://github.com/FranciscoLoncq/Sales-Dashboard-SQL-Tableau/blob/main/BikeStores%20Query.sql)
 
 ### Tableau
 [Bike Sales Executive Dashboard](https://public.tableau.com/app/profile/francisco.loncq/viz/BikeSalesDashboard_16999211966890/Dashboard1)
